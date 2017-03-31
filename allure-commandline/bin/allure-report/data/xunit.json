@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1490734131862,
+    "stop" : 1490734143151,
+    "duration" : 11289
+  },
+  "testSuites" : [ {
+    "uid" : "5f96b9fabe52526d",
+    "name" : "test_main",
+    "title" : "Test main",
+    "time" : {
+      "start" : 1490734131862,
+      "stop" : 1490734143151,
+      "duration" : 11289
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "6d3c79cf6d5dbb5",
+      "name" : "test_solit_cloud",
+      "title" : "Test solit cloud",
+      "time" : {
+        "start" : 1490734131862,
+        "stop" : 1490734143151,
+        "duration" : 11289
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

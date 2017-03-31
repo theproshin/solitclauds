@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "khakhin",
+    "threads" : [ {
+      "title" : "6948-MainThread",
+      "testCases" : [ {
+        "uid" : "6d3c79cf6d5dbb5",
+        "name" : "test_solit_cloud",
+        "title" : "Test solit cloud",
+        "time" : {
+          "start" : 1490734131862,
+          "stop" : 1490734143151,
+          "duration" : 11289
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
